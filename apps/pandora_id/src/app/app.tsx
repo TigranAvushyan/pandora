@@ -1,13 +1,9 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.css';
-import NxWelcome from './nx-welcome';
+import { useTranslation } from 'react-i18next';
+import '@pandora/i18n';
 
 export function App() {
-  return (
-    <div>
-      <NxWelcome title="pandora_id" />
-    </div>
-  );
+  const { t } = useTranslation(['common']);
+  return <div>{t('action.send', { ns: 'common' })}</div>;
 }
 
 export default App;

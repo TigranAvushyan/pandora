@@ -1,0 +1,62 @@
+{
+  "personalData": {
+    "title": "Personal data",
+    "subtitle": "Registered since {{ value }}",
+    "basicData": "Basic data",
+    "contactInformation": "Contact information",
+    "password": "Password"
+  },
+  "entryPersonalData": {
+    "title": "Personal data",
+    "subtitle": "Fill in your personal information"
+  },
+  "changeContact": {
+    "phoneTitle": "Enter a new phone number",
+    "emailTitle": "Enter new e-mail"
+  },
+  "enterContact": {
+    "phoneTitle": "Enter a phone number",
+    "emailTitle": "Enter e-mail",
+    "subtitle": "Fill in your personal information"
+  },
+  "changePassword": {
+    "title": "Change password",
+    "pastPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Repeat password",
+    "pastPasswordPlaceholder": "Enter old password",
+    "newPasswordPlaceholder": "Enter new password",
+    "confirmPasswordPlaceholder": "Repeat new password"
+  },
+  "verifyCode": {
+    "phoneTitle": "A verification code has been sent to your phone number",
+    "phoneSubtitle": "Sent an SMS with a confirmation code to the number {{value}}. Please enter it to confirm your phone number",
+    "emailTitle": "A confirmation code has been sent to your email.",
+    "emailSubtitle": "Sent an email with a confirmation code to {{value}}. Please enter it to confirm your email address",
+    "placeholder": "Enter the code"
+  },
+  "myFinances": {
+    "title": "My finances"
+  },
+  "myServices": {
+    "title": "My services"
+  },
+  "privacy": {
+    "acceptPolicy": "I accept the terms of processing <0>personal data</0>"
+  },
+  "error": {
+    "userNotFound": "User not found",
+    "userUnverified": "User not verified",
+    "contactExists_email": "A user with this email already exists",
+    "contactExists_phone": "A user with this phone number already exists",
+    "captchaInvalid": "Invalid code. Please try again",
+    "invalidConfirmCode": "The confirmation code you entered is incorrect",
+    "usernameOrPasswordInvalid": "The username or password you entered is incorrect",
+    "codeInvalid": "The code you entered is incorrect",
+    "phoneInvalid": "Phone number is incorrect",
+    "contactExists": "Contact already exist",
+    "contactInvalid": "Phone number is incorrect",
+    "passwordInvalid": "Password is incorrect",
+    "emailInvalid": "Email is incorrect"
+  }
+}

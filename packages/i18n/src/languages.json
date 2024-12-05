@@ -1,0 +1,117 @@
+{
+  "ru": {
+    "flag": "./flags/ru.png",
+    "language": "Russian",
+    "native": "Русский"
+  },
+  "en": {
+    "flag": "./flags/gb.png",
+    "language": "English",
+    "native": "English"
+  },
+  "es": {
+    "flag": "./flags/es.png",
+    "language": "Spanish",
+    "native": "Español"
+  },
+  "fr": {
+    "flag": "./flags/fr.png",
+    "language": "French",
+    "native": "Français"
+  },
+  "de": {
+    "flag": "./flags/de.png",
+    "language": "German",
+    "native": "Deutsch"
+  },
+  "it": {
+    "flag": "./flags/it.png",
+    "language": "Italian",
+    "native": "Italiano"
+  },
+  "pt": {
+    "flag": "./flags/pt.png",
+    "language": "Portuguese",
+    "native": "Português"
+  },
+  "nl": {
+    "flag": "./flags/nl.png",
+    "language": "Dutch",
+    "native": "Nederlands"
+  },
+  "da": {
+    "flag": "./flags/dk.png",
+    "language": "Danish",
+    "native": "Dansk"
+  },
+  "sv": {
+    "flag": "./flags/se.png",
+    "language": "Swedish",
+    "native": "Svenska"
+  },
+  "fi": {
+    "flag": "./flags/fi.png",
+    "language": "Finnish",
+    "native": "Suomi"
+  },
+  "pl": {
+    "flag": "./flags/pl.png",
+    "language": "Polish",
+    "native": "Polski"
+  },
+  "hu": {
+    "flag": "./flags/hu.png",
+    "language": "Hungarian",
+    "native": "Magyar"
+  },
+  "ro": {
+    "flag": "./flags/ro.png",
+    "language": "Romanian",
+    "native": "Română"
+  },
+  "bg": {
+    "flag": "./flags/bg.png",
+    "language": "Bulgarian",
+    "native": "Български"
+  },
+  "el": {
+    "flag": "./flags/gr.png",
+    "language": "Greek",
+    "native": "Ελληνικά"
+  },
+  "sk": {
+    "flag": "./flags/sk.png",
+    "language": "Slovak",
+    "native": "Slovenčina"
+  },
+  "sl": {
+    "flag": "./flags/si.png",
+    "language": "Slovenian",
+    "native": "Slovenščina"
+  },
+  "lv": {
+    "flag": "./flags/lv.png",
+    "language": "Latvian",
+    "native": "Latviešu"
+  },
+  "lt": {
+    "flag": "./flags/lt.png",
+    "language": "Lithuanian",
+    "native": "Lietuvių"
+  },
+  "mt": {
+    "flag": "./flags/mt.png",
+    "language": "Maltese",
+    "native": "Malti"
+  },
+  "uk": {
+    "flag": "./flags/ua.png",
+    "language": "Ukrainian",
+    "native": "Українська"
+  },
+  "hr": {
+    "flag": "./flags/hr.png",
+    "language": "Croatian",
+    "native": "Hrvatski"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "personalData": {
+    "title": "Личные данные",
+    "subtitle": "Зарегистрирован c {{ value }}",
+    "basicData": "Основные данные",
+    "contactInformation": "Контактные данные",
+    "password": "Пароль"
+  },
+  "entryPersonalData": {
+    "title": "Личные данные",
+    "subtitle": "Заполните ваши персональные данные"
+  },
+  "changeContact": {
+    "phoneTitle": "Введите новый номер телефона",
+    "emailTitle": "Введите новый e-mail"
+  },
+  "enterContact": {
+    "phoneTitle": "Введите новый номер телефона",
+    "emailTitle": "Введите новый e-mail",
+    "subtitle": "Заполните ваши персональные данные"
+  },
+  "changePassword": {
+    "title": "Изменить пароль",
+    "pastPassword": "Старый пароль",
+    "newPassword": "Новый пароль",
+    "confirmPassword": "Повторите пароль",
+    "pastPasswordPlaceholder": "Введите старый пароль",
+    "newPasswordPlaceholder": "Введите новый пароль",
+    "confirmPasswordPlaceholder": "Повторите новый пароль"
+  },
+  "verifyCode": {
+    "phoneTitle": "Отправили код подтверждения на ваш номер телефона",
+    "phoneSubtitle": "Отправили СМС с кодом подтверждения на номер {{value}}. Пожалуйста, введите его для подтверждения номера телефона",
+    "emailTitle": "Отправили код подтверждения на вашу почту",
+    "emailSubtitle": "Отправили письмо с кодом подтверждения на {{value}}. Пожалуйста, введите его для подтверждения адреса электронной почты",
+    "placeholder": "Введите код"
+  },
+  "myFinances": {
+    "title": "Мои финансы"
+  },
+  "myServices": {
+    "title": "Мои услуги"
+  },
+  "privacy": {
+    "acceptPolicy": "Я принимаю условия обработки <0>персональных данных</0>"
+  },
+  "error": {
+    "userNotFound": "Пользователь не найден",
+    "userUnverified": "Пользователь не подтверждён",
+    "contactExists_email": "Пользователь с такой почтой уже существует",
+    "contactExists_phone": "Пользователь с таким номером телефона уже существует",
+    "captchaInvalid": "Неверный код. Повторите еще раз",
+    "invalidConfirmCode": "Введённый вами код подтверждения неверен",
+    "usernameOrPasswordInvalid": "Неверное имя пользователя или пароль",
+    "codeInvalid": "Введенный код неверен",
+    "phoneInvalid": "Телефон неверен",
+    "contactExists": "Kонтакт уже существует",
+    "contactInvalid": "Телефон неверен",
+    "passwordInvalid": "Пароль неверен",
+    "emailInvalid": "Почта введена некорректно"
+  }
+}

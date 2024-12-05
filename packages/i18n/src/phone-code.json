@@ -1,0 +1,262 @@
+{
+  "af": {
+    "code": "+93",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/af.png"
+  },
+  "al": {
+    "code": "+355",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/al.png"
+  },
+  "dz": {
+    "code": "+213",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/dz.png"
+  },
+  "ad": {
+    "code": "+376",
+    "mask": "___-___",
+    "flag": "https://flagcdn.com/w20/ad.png"
+  },
+  "ao": {
+    "code": "+244",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/ao.png"
+  },
+  "ar": {
+    "code": "+54",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/ar.png"
+  },
+  "au": {
+    "code": "+61",
+    "mask": "(_) ____-____",
+    "flag": "https://flagcdn.com/w20/au.png"
+  },
+  "at": {
+    "code": "+43",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/at.png"
+  },
+  "bd": {
+    "code": "+880",
+    "mask": "(____) ___-___",
+    "flag": "https://flagcdn.com/w20/bd.png"
+  },
+  "by": {
+    "code": "+375",
+    "mask": "(__) ___-__-__",
+    "flag": "https://flagcdn.com/w20/by.png"
+  },
+  "be": {
+    "code": "+32",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/be.png"
+  },
+  "bz": {
+    "code": "+501",
+    "mask": "___-____",
+    "flag": "https://flagcdn.com/w20/bz.png"
+  },
+  "bj": {
+    "code": "+229",
+    "mask": "__-__-__-__",
+    "flag": "https://flagcdn.com/w20/bj.png"
+  },
+  "bo": {
+    "code": "+591",
+    "mask": "(_) ___-____",
+    "flag": "https://flagcdn.com/w20/bo.png"
+  },
+  "br": {
+    "code": "+55",
+    "mask": "(__) ____-____",
+    "flag": "https://flagcdn.com/w20/br.png"
+  },
+  "bg": {
+    "code": "+359",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/bg.png"
+  },
+  "ca": {
+    "code": "+1",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/ca.png"
+  },
+  "cl": {
+    "code": "+56",
+    "mask": "(_) ____-____",
+    "flag": "https://flagcdn.com/w20/cl.png"
+  },
+  "cn": {
+    "code": "+86",
+    "mask": "(___) ____-____",
+    "flag": "https://flagcdn.com/w20/cn.png"
+  },
+  "co": {
+    "code": "+57",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/co.png"
+  },
+  "cr": {
+    "code": "+506",
+    "mask": "____-____",
+    "flag": "https://flagcdn.com/w20/cr.png"
+  },
+  "hr": {
+    "code": "+385",
+    "mask": "(__) ___-___",
+    "flag": "https://flagcdn.com/w20/hr.png"
+  },
+  "cu": {
+    "code": "+53",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/cu.png"
+  },
+  "cz": {
+    "code": "+420",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/cz.png"
+  },
+  "dk": {
+    "code": "+45",
+    "mask": "__ __ __ __",
+    "flag": "https://flagcdn.com/w20/dk.png"
+  },
+  "eg": {
+    "code": "+20",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/eg.png"
+  },
+  "fr": {
+    "code": "+33",
+    "mask": "(_) __ __ __ __",
+    "flag": "https://flagcdn.com/w20/fr.png"
+  },
+  "de": {
+    "code": "+49",
+    "mask": "(____) ___-____",
+    "flag": "https://flagcdn.com/w20/de.png"
+  },
+  "gr": {
+    "code": "+30",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/gr.png"
+  },
+  "in": {
+    "code": "+91",
+    "mask": "(_____) _____",
+    "flag": "https://flagcdn.com/w20/in.png"
+  },
+  "id": {
+    "code": "+62",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/id.png"
+  },
+  "ie": {
+    "code": "+353",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/ie.png"
+  },
+  "il": {
+    "code": "+972",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/il.png"
+  },
+  "it": {
+    "code": "+39",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/it.png"
+  },
+  "jp": {
+    "code": "+81",
+    "mask": "(__) ____-____",
+    "flag": "https://flagcdn.com/w20/jp.png"
+  },
+  "ke": {
+    "code": "+254",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/ke.png"
+  },
+  "mx": {
+    "code": "+52",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/mx.png"
+  },
+  "ng": {
+    "code": "+234",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/ng.png"
+  },
+  "pk": {
+    "code": "+92",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/pk.png"
+  },
+  "pl": {
+    "code": "+48",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/pl.png"
+  },
+  "pt": {
+    "code": "+351",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/pt.png"
+  },
+  "ru": {
+    "code": "+7",
+    "mask": "(___) ___-__-__",
+    "flag": "https://flagcdn.com/w20/ru.png"
+  },
+  "za": {
+    "code": "+27",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/za.png"
+  },
+  "es": {
+    "code": "+34",
+    "mask": "(___) ___-___",
+    "flag": "https://flagcdn.com/w20/es.png"
+  },
+  "se": {
+    "code": "+46",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/se.png"
+  },
+  "ch": {
+    "code": "+41",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/ch.png"
+  },
+  "th": {
+    "code": "+66",
+    "mask": "(__) ___-____",
+    "flag": "https://flagcdn.com/w20/th.png"
+  },
+  "tr": {
+    "code": "+90",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/tr.png"
+  },
+  "ua": {
+    "code": "+380",
+    "mask": "(__) ___-__-__",
+    "flag": "https://flagcdn.com/w20/ua.png"
+  },
+  "gb": {
+    "code": "+44",
+    "mask": "(____) ___-___",
+    "flag": "https://flagcdn.com/w20/gb.png"
+  },
+  "us": {
+    "code": "+1",
+    "mask": "(___) ___-____",
+    "flag": "https://flagcdn.com/w20/us.png"
+  },
+  "vn": {
+    "code": "+84",
+    "mask": "(__) ____-____",
+    "flag": "https://flagcdn.com/w20/vn.png"
+  }
+}
