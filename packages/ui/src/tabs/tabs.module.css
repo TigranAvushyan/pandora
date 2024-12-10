@@ -1,0 +1,27 @@
+.root.switch .list {
+  gap: var(--spacing-sm);
+  background-color: var(--grayscale-200);
+  width: fit-content;
+  border-radius: var(--border-radius-full);
+  padding: var(--spacing-xs);
+  flex-wrap: nowrap;
+}
+
+.root.switch .tab {
+  padding: 10px 0;
+  min-width: 150px;
+  min-height: 30px;
+  border-radius: var(--border-radius-full);
+  color: var(--grayscale-500);
+  transition: var(--transition-all);
+  font-size: var(--font-size-lg);
+}
+
+.root.switch .tab:hover {
+  background-color: var(--grayscale-100);
+}
+
+.root.switch .tab[data-active] {
+  color: var(--grayscale-700);
+  background-color: var(--grayscale-50);
+}

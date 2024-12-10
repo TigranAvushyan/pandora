@@ -1,0 +1,62 @@
+:root {
+  --grayscale-50: #ffffff;
+  --grayscale-100: #fcfcfc;
+  --grayscale-200: #f3f3f3;
+  --grayscale-300: #dfdfdf;
+
+  --grayscale-500: #858585;
+
+  --grayscale-700: #333131;
+
+  --grayscale-900: #1a171c;
+
+  --blue-400: #1ea2ff;
+  --blue-500: #0084ff;
+  --blue-600: #0066e1;
+
+  --red-500: #ed3a48;
+
+  --green: green;
+
+  --primary-color-400: var(--blue-400);
+  --primary-color-500: var(--blue-500);
+  --primary-color-600: var(--blue-600);
+
+  --secondary-color-500: var(--grayscale-500);
+  --secondary-color-700: var(--grayscale-700);
+  --secondary-color-900: var(--grayscale-900);
+
+  --error-500: var(--red-500);
+
+  --success-500: var(--green);
+
+  --text-color: var(--grayscale-700);
+  --text-color-secondary: var(--grayscale-500);
+
+  --transition-all: all 0.2s ease-in-out;
+
+  --border-radius-xs: 4px;
+  --border-radius-sm: 8px;
+  --border-radius-md: 10px;
+  --border-radius-full: 9999px;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.5rem;
+
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+
+  --breakpoint-xxs: 20em;
+  --breakpoint-xs: 36em;
+  --breakpoint-sm: 48em;
+  --breakpoint-md: 62em;
+  --breakpoint-lg: 75em;
+  --breakpoint-xl: 88em;
+  --breakpoint-xxl: 100em;
+}

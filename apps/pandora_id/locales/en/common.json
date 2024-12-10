@@ -1,0 +1,77 @@
+{
+  "action": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "back": "Back",
+    "goBack": "Go back",
+    "next": "Next",
+    "apply": "Apply",
+    "search": "Search",
+    "reset": "Reset",
+    "clear": "Clear",
+    "filter": "Filter",
+    "open": "Open",
+    "check": "Check",
+    "repeat": "Repeat",
+    "login": "Login",
+    "change": "Change",
+    "reload": "Reload",
+    "continue": "Continue",
+    "сonfirm": "Confirm"
+  },
+  "status": {
+    "success": "Success",
+    "error": "Error",
+    "errorText": "An error occurred",
+    "unknownError": "Unknown error",
+    "warning": "Warning",
+    "info": "Information",
+    "loading": "Loading",
+    "noData": "No data"
+  },
+  "contact": {
+    "phone": "Phone",
+    "phoneNumber": "Phone number",
+    "email": "Email",
+    "eMail": "E-mail"
+  },
+  "validation": {
+    "phoneInvalid": "Invalid phone number",
+    "invalidEmail": "Invalid email",
+    "required": "Required field",
+    "requiredToFill": "Must be filled",
+    "passwordsDontMatch": "Passwords do not match",
+    "password": "The password must be 6-20 characters, including one lowercase and one uppercase letter. one number and special symbol (@#$%^&*( ) )"
+  },
+  "personalInfo": {
+    "address": "Address",
+    "name": "Name",
+    "lastName": "Last name",
+    "firstName": "First name",
+    "birthday": "Date of birth",
+    "language": "Language"
+  },
+  "form": {
+    "enterDataAndClickSave": "Enter data and click the 'Save' button"
+  },
+  "error": {
+    "notFound": "The page that you are looking for cannot be found",
+    "boundary": "Something went wrong",
+    "network": "Connection lost..."
+  },
+  "time": {
+    "seconds": "seconds",
+    "minutes": "minutes",
+    "hours": "hours",
+    "days": "days",
+    "s": "s",
+    "m": "m",
+    "h": "h",
+    "d": "d"
+  }
+}

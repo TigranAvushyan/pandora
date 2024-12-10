@@ -1,0 +1,41 @@
+.input {
+  --input-border-radius: var(--border-radius-sm);
+  --input-border-color: var(--grayscale-300);
+  --input-bg-color: var(--grayscale-50);
+  --input-color: var(--grayscale-700);
+  --input-font-size: 1.125rem;
+  --input-font-weight: 400;
+  --input-placeholder-color: var(--grayscale-500);
+
+  border: 1px solid var(--input-border-color);
+  border-radius: var(--input-border-radius);
+  background-color: var(--input-bg-color);
+  color: var(--input-color);
+}
+
+.input:focus {
+  --input-border-color: var(--primary-color-500);
+}
+
+.input[data-error="true"] {
+  --input-border-color: var(--error-500);
+  --input-color: var(--input-color);
+}
+
+.input[data-error="true"]::placeholder {
+  --input-color: var(--input-color);
+}
+
+.inputWrapper {
+  position: relative;
+  width: 100%;
+}
+.inputWrapper:has(> .input:required)::after,
+.inputWrapper:has(> .input.required)::after {
+  content: "*";
+  position: absolute;
+  font-size: 1em;
+  color: var(--primary-color-500);
+  right: 8px;
+  top: 0;
+}

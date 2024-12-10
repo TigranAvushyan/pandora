@@ -1,0 +1,22 @@
+.input input {
+  outline: none;
+  padding: 8px 10px;
+  border-radius: var(--border-radius-md);
+  border: 1px solid var(--grayscale-300);
+}
+
+.errorInput input {
+  border: 1px solid var(--red-500);
+}
+
+.inputContainer {
+  position: relative;
+}
+
+.requiredInput::after {
+  content: "*";
+  position: absolute;
+  right: 0.5rem;
+  bottom: 1.075rem;
+  color: var(--primary-color-500);
+}

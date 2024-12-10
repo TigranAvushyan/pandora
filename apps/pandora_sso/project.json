@@ -1,0 +1,9 @@
+{
+  "name": "pandora_sso",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/pandora_sso/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project pandora_sso --web",
+  "targets": {}
+}

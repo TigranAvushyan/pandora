@@ -1,5 +1,5 @@
 /// <reference types='vitest' />
-import { nxCopyAssetsPlugin } from '@nx/vite/plugins/nx-copy-assets.plugin';
+import copy from 'rollup-plugin-copy';
 import { nxViteTsPaths } from '@nx/vite/plugins/nx-tsconfig-paths.plugin';
 import react from '@vitejs/plugin-react';
 import { defineConfig } from 'vite';
@@ -18,14 +18,14 @@ export default defineConfig({
   plugins: [
     react(),
     nxViteTsPaths(),
-    nxCopyAssetsPlugin([
-      '*.md',
-      {
-        input: '../../packages/i18n/src/locales/',
-        output: './locales',
-        glob: '**/*',
-      },
-    ]),
+    copy({
+      targets: [
+        {
+          src: '../../packages/i18n/src/locales/**/*',
+          dest: './locales',
+        },
+      ],
+    }),
   ],
   // Uncomment this if you are using workers.
   // worker: {

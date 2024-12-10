@@ -1,0 +1,17 @@
+.checkbox.input {
+  --checkbox-border-color: var(--grayscale-500);
+  --checkbox-checked-bg-color: var(--secondary-color-700);
+  border-radius: 0;
+  border-width: 2px;
+  border-color: var(--checkbox-border-color);
+}
+
+.checkbox.input:checked {
+  background-color: var(--checkbox-checked-bg-color);
+  border-color: var(--checkbox-checked-bg-color);
+}
+
+.checkbox.input:invalid,
+.checkbox.input[data-error="true"] {
+  --checkbox-border-color: var(--error-500);
+}

@@ -1,0 +1,33 @@
+.container {
+  width: 100dvw;
+  height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  min-width: 400px;
+}
+
+.logo {
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  font-size: 1.75rem;
+  margin-top: 0.875rem;
+  margin-bottom: 1.875rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 48em) {
+  .logo {
+    margin-bottom: 1.5rem;
+  }
+
+  .title {
+    margin: 0.5rem 0 1rem;
+    font-size: 0.9rem;
+  }
+}

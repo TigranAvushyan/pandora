@@ -1,0 +1,28 @@
+.logo {
+  margin-bottom: 2.5rem;
+}
+
+.title,
+.subtitle {
+  text-align: center;
+}
+
+.subtitle {
+  margin-top: 0.875rem;
+  margin-bottom: 1.875rem;
+}
+
+@media screen and (max-width: 48em) {
+  .logo {
+    margin-bottom: 1.5rem;
+  }
+
+  .title {
+    font-size: 2.5rem;
+  }
+
+  .subtitle {
+    margin: 0.5rem 0 1rem;
+    font-size: 0.9rem;
+  }
+}

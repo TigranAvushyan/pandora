@@ -1,0 +1,72 @@
+.button.root {
+  --button-bg-color: var(--primary-color-500);
+  --button-bg-hover-color: var(--primary-color-400);
+  --button-bg-active-color: var(--primary-color-600);
+
+  --button-color: var(--grayscale-50);
+  --button-hover-color: var(--grayscale-50);
+  --button-active-color: var(--grayscale-50);
+
+  --button-disabled-bg-color: var(--grayscale-300);
+  --button-disabled-color: var(--grayscale-500);
+
+  --button-font-size: 1.125rem;
+  --button-font-weight: 600;
+
+  background-color: var(--button-bg-color);
+  border-radius: var(--border-radius-md);
+  font-size: var(--button-font-size);
+  font-weight: var(--button-font-weight);
+  transition: var(--transition-all);
+}
+
+.root:hover:not([disabled]) {
+  background-color: var(--button-bg-hover-color);
+  color: var(--button-hover-color);
+}
+
+.root:active:not([disabled]) {
+  background-color: var(--button-bg-active-color);
+  color: var(--button-active-color);
+}
+
+.root:disabled {
+  background-color: var(--button-disabled-bg-color);
+  color: var(--button-disabled-color);
+}
+
+.root.secondary:hover:not([disabled]) {
+  background-color: var(--grayscale-500);
+  color: var(--grayscale-900);
+}
+
+.root.secondary {
+  --button-font-size: 1.125rem;
+  --button-bg-color: var(--grayscale-700);
+  --button-color: var(--grayscale-50);
+  --button-hover-color: var(--grayscale-500);
+  --button-active-color: var(--grayscale-900);
+}
+
+.root.ghost {
+  --button-font-size: 1rem;
+  --button-bg-color: transparent;
+  --button-color: var(--primary-color-500);
+  --button-hover-color: var(--primary-color-400);
+  --button-active-color: var(--primary-color-600);
+  --button-bg-hover-color: transparent;
+  --button-bg-active-color: transparent;
+
+  --button-disabled-bg-color: transparent;
+  --button-disabled-color: var(--grayscale-300);
+}
+
+@media screen and (max-width: 48em) {
+  .button.root {
+    --button-font-size: 1rem;
+  }
+
+  .root.ghost {
+    --button-font-size: 0.875rem;
+  }
+}

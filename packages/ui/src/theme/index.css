@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "MyriadPro";
+  src: url("../assets/fonts/Myriad_pro/MYRIADPRO-REGULAR.OTF");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "MyriadPro";
+  src: url("../assets/fonts/Myriad_pro/MYRIADPRO-SEMIBOLD.OTF");
+  font-style: normal;
+  font-weight: 700;
+}

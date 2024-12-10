@@ -1,0 +1,4 @@
+.dropdown div[data-checked="true"] {
+  background-color: var(--primary-color-500);
+  color: var(--grayscale-50);
+}

@@ -64,7 +64,7 @@
       },
       "library": {
         "style": "css",
-        "linter": "eslint"
+        "unitTestRunner": "jest"
       }
     }
   }

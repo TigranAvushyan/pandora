@@ -1,0 +1,6 @@
+.blackWavesLayout {
+  background: url("../../assets/images/backgrounds/black_waves.png") no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
